@@ -1,0 +1,15 @@
+.contact-img {
+  height: 32px;
+  width: 32px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.name-contact{
+    cursor: pointer;
+}
+.contact-wrapper:hover{
+    background-color: rgb(204, 204, 204); 
+}
+.border-bottom1{
+    border-bottom: rgb(170, 170, 170) 1px solid;
+}
